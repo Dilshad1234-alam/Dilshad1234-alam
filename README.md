@@ -1,36 +1,25 @@
-````md
-<div align="center">
+```md
+## 🧑‍🚀 Who Am I?
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Hi%20I'm%20Dilshad%20Alam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20React%20%7C%20Node.js%20%7C%20MongoDB&descAlignY=55&descSize=18" />
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Always+Learning+New+Technologies" />
+✨ Full Stack MERN Developer from India.
 
-</div>
+🔹 I enjoy turning ideas into scalable web applications.  
+🔹 Passionate about clean code, backend architecture, and modern UI design.  
+🔹 Constantly exploring new technologies and improving my development workflow.
 
----
+### ⚡ Quick Facts
 
-## 👨‍💻 About Me
-
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-```js
-const dilshad = {
-  name: "Dilshad Alam",
-  role: "MERN Stack Developer",
-  location: "India",
-  skills: {
-    frontend: ["React.js", "JavaScript", "Tailwind CSS", "Redux Toolkit"],
-    backend: ["Node.js", "Express.js", "REST APIs"],
-    database: ["MongoDB", "Mongoose"],
-    tools: ["Git", "GitHub", "VS Code", "Postman"]
-  },
-  currentlyLearning: ["Advanced MERN", "System Design", "Backend Architecture"],
-  goal: "To become a better full-stack software engineer",
-  openToWork: true
-};
-````
+- 💻 Building projects with the MERN Stack
+- 🌱 Learning System Design & Scalable Architectures
+- 🚀 Love Open Source & Developer Communities
+- 🎯 Goal: Build products that solve real-world problems
+- ☕ Powered by Coffee and Curiosity
 
 <br clear="right"/>
+```
+
 
 ---
 
