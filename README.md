@@ -1,4 +1,4 @@
-```md
+md
 ## ✨ About Me
 
 <table>
@@ -29,7 +29,7 @@ I'm **Dilshad Alam**, a passionate **Full Stack MERN Developer** from India who 
 </td>
 </tr>
 </table>
-```
+
 
 
 
