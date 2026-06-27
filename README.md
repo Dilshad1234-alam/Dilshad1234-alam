@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:020024,50:6a00ff,100:00d4ff&text=Hi,%20I'm%20Dilshad%20Alam&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20MERN%20Developer%20%7C%20Building%20Scalable%20Modern%20Web%20Apps&descSize=18&descAlignY=65"/>
@@ -234,4 +234,4 @@ Real-time chat application with authentication and live messaging.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:6a00ff,100:00d4ff&height=140&section=footer"/>
 
 </div>
-```
+
