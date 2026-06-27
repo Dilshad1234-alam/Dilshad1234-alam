@@ -1,224 +1,226 @@
-# <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Hi,%20I'm%20Dilshad%20Alam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20MERN%20Developer%20•%20Building%20Scalable%20Applications&descAlignY=55&descSize=20&color=0:0f0c29,50:302b63,100:24243e"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=⚡+Full+Stack+MERN+Developer;🚀+Building+Scalable+Web+Applications;💎+Clean+Code+%7C+Great+UI%2FUX;🔥+Always+Learning+New+Technologies"/>
-
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-</p>
-
-</div>
-
----
-
-# ⚡ Developer Profile
-
+```md
 <div align="center">
 
-| 🚀 Role                   | 📍 Location | ☕ Passion  | 💼 Status    |
-| ------------------------- | ----------- | ---------- | ------------ |
-| Full Stack MERN Developer | India       | Clean Code | Open To Work |
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:020024,50:6a00ff,100:00d4ff&text=Hi,%20I'm%20Dilshad%20Alam&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20MERN%20Developer%20%7C%20Building%20Scalable%20Modern%20Web%20Apps&descSize=18&descAlignY=65"/>
 
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=🚀+MERN+Stack+Developer;⚡+React+%7C+Node.js+%7C+Express.js+%7C+MongoDB;🎨+Modern+UI%2FUX+%2B+Powerful+Backend;🔥+Open+To+Work+%26+Collaboration"/>
 
-<br>
+<br/>
 
-<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
-
-## Crafting digital experiences with code & creativity.
-
-* 💻 Passionate Full Stack MERN Developer
-* ⚡ Building modern, responsive web applications
-* 🎯 Focused on performance, scalability & UI/UX
-* 🌱 Learning Advanced MERN & System Design
-* 🤝 Open for collaboration and opportunities
-
-<br clear="right"/>
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,git,github,vscode,postman,vite,npm"/>
+<img src="https://komarev.com/ghpvc/?username=Dilshad1234-alam&label=Profile%20Views&color=00d4ff&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20To%20Work-00ff88?style=for-the-badge&logo=rocket&logoColor=black"/>
+<img src="https://img.shields.io/badge/Focus-Scalable%20Apps-ff00ff?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+## 🧑‍🚀 Developer Profile
 
 <table>
 <tr>
+<td width="35%" align="center">
 
-<td width="50%">
+<img width="230" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-## 🛒 Snitch E-Commerce
+<br/><br/>
 
-✨ Authentication, Seller Dashboard, Wishlist, Cart, Razorpay
-
-**Tech Stack**
-
-`React` `Redux` `Node.js` `MongoDB` `JWT` `Razorpay`
+<img src="https://img.shields.io/badge/Always%20Learning-111827?style=for-the-badge&logo=lightning&logoColor=00F7FF"/>
 
 </td>
 
-<td width="50%">
+<td width="65%">
 
-## 🤖 AI Better Arena
+### Crafting digital experiences with **code & creativity**.
 
-Compare multiple AI models on a single platform.
+- 💻 Passionate **Full Stack MERN Developer**
+- 🚀 Building modern, responsive & scalable web applications
+- 🎯 Focused on performance, clean code & great UI/UX
+- 🌱 Currently learning **Advanced MERN & System Design**
+- 🤝 Open for collaboration, internships & developer roles
 
-**Tech Stack**
+<br/>
 
-`React` `TypeScript` `Node.js` `AI APIs`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🏨 Hotel Booking Platform
-
-Authentication, image uploads and booking management.
-
-**Tech Stack**
-
-`MERN` `JWT` `Cloudinary`
+| 🚀 Role | 📍 Location | ☕ Passion | 💼 Status |
+|--------|-------------|------------|-----------|
+| MERN Developer | India | 100% Coding | Open To Work |
 
 </td>
-
-<td width="50%">
-
-## 💬 Real-Time Chat App
-
-Real-time messaging with Socket.io.
-
-**Tech Stack**
-
-`Socket.io` `MongoDB` `JWT`
-
-</td>
-
 </tr>
 </table>
 
 ---
 
-# 📊 GitHub Analytics
+## ⚡ Impact Stats
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dilshad1234-alam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilshad1234-alam&layout=compact&theme=tokyonight&hide_border=true"/>
+<table>
+<tr>
+<td align="center" width="25%">
+<h3>120+</h3>
+<p>Projects</p>
+</td>
+<td align="center" width="25%">
+<h3>500+</h3>
+<p>Commits</p>
+</td>
+<td align="center" width="25%">
+<h3>150+</h3>
+<p>Stars</p>
+</td>
+<td align="center" width="25%">
+<h3>80+</h3>
+<p>Happy Users</p>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Dilshad1234-alam&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,git,github,vscode,postman,vite,npm" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb"/>
 
 </div>
 
 ---
 
-# 📈 Activity Graph
+## 🔥 Featured Projects
+
+<table>
+<tr>
+<td width="25%">
+
+### 🛒 Snitch E-Commerce
+
+Full-stack e-commerce with role-based access, payments, cart, wishlist & seller dashboard.
+
+`MERN` `Redux` `Razorpay`
+
+</td>
+<td width="25%">
+
+### 🤖 AI Better Arena
+
+Compare multiple AI models responses in one powerful platform.
+
+`React` `TypeScript` `AI APIs`
+
+</td>
+<td width="25%">
+
+### 🏨 Hotel Booking
+
+Hotel booking platform with authentication, upload & booking management.
+
+`MERN` `JWT` `Cloudinary`
+
+</td>
+<td width="25%">
+
+### 💬 Real-Time Chat App
+
+Real-time chat application with authentication and live messaging.
+
+`Socket.io` `MERN` `JWT`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dilshad1234-alam&theme=tokyo-night&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dilshad1234-alam&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilshad1234-alam&layout=compact&theme=radical&hide_border=true"/>
+
+<br/><br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dilshad1234-alam&theme=react-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 Achievements
+## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dilshad1234-alam&theme=algolia&no-frame=true&column=7"/>
+<img src="https://streak-stats.demolab.com?user=Dilshad1234-alam&theme=radical&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+## 🏆 Achievements
 
 <div align="center">
 
-yaml
-# .github/workflows/snake.yml
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Dilshad1234-alam
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-
-
-<img src="https://raw.githubusercontent.com/Dilshad1234-alam/Dilshad1234-alam/output/github-contribution-grid-snake.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Dilshad1234-alam&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 
 </div>
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
-* 🚀 Building production-ready MERN applications
-* ⚡ Improving backend architecture & API design
-* 🧠 Learning system design and scalability
-* 🎨 Creating beautiful UI/UX experiences
-* 🔥 Contributing to open source projects
+<table>
+<tr>
+<td width="60%">
+
+- 🚀 Building production-ready MERN applications
+- ⚡ Improving backend architecture & API design
+- 🧠 Learning system design & scalable patterns
+- 🎨 Creating beautiful UI/UX experiences
+- 🔥 Growing as a full-stack software engineer
+
+</td>
+<td width="40%" align="center">
+
+<img width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-00d4ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Dilshad1234-alam">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-ff00ff?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-6a00ff?style=for-the-badge"/>
 </a>
 
 </div>
@@ -227,10 +229,9 @@ jobs:
 
 <div align="center">
 
-# 💡
+### 💡 “First, solve the problem. Then, write the code.”
 
-### *"First, solve the problem. Then, write the code."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:24243e,50:302b63,100:0f0c29"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:6a00ff,100:00d4ff&height=140&section=footer"/>
 
 </div>
+```
