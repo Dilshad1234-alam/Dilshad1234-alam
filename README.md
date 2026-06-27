@@ -1,24 +1,36 @@
 ```md
-## 🧑‍🚀 Who Am I?
+## ✨ About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<table>
+<tr>
+<td width="65%">
 
-✨ Full Stack MERN Developer from India.
+### 👋 Hey there!
 
-🔹 I enjoy turning ideas into scalable web applications.  
-🔹 Passionate about clean code, backend architecture, and modern UI design.  
-🔹 Constantly exploring new technologies and improving my development workflow.
+I'm **Dilshad Alam**, a passionate **Full Stack MERN Developer** from India who enjoys building modern, scalable, and high-performance web applications.
 
-### ⚡ Quick Facts
+🚀 I love turning ideas into real products with clean UI, efficient backend systems, and great user experiences.
 
-- 💻 Building projects with the MERN Stack
-- 🌱 Learning System Design & Scalable Architectures
-- 🚀 Love Open Source & Developer Communities
-- 🎯 Goal: Build products that solve real-world problems
-- ☕ Powered by Coffee and Curiosity
+🌱 Currently exploring:
 
-<br clear="right"/>
+- Advanced MERN Architecture
+- System Design
+- Scalable Backend Development
+- Performance Optimization
+
+💡 I believe in continuous learning, open-source contribution, and building impactful software.
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
+
+</td>
+</tr>
+</table>
 ```
+
 
 
 ---
