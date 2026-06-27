@@ -1,119 +1,163 @@
+````md
 <div align="center">
 
-<!-- Top Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1055,100:7b2ff7&height=220&section=header&text=Hi%20I%27m%20Dilshad%20Alam&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Building%20Scalable%20Web%20Applications&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Hi%20I'm%20Dilshad%20Alam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20React%20%7C%20Node.js%20%7C%20MongoDB&descAlignY=55&descSize=18" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Always+Learning+New+Technologies" />
 
 </div>
 
 ---
 
-## 🌟 About Me
+## 👨‍💻 About Me
+
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```js
 const dilshad = {
   name: "Dilshad Alam",
-  location: "India",
   role: "MERN Stack Developer",
-  frontend: ["React", "JavaScript", "HTML", "CSS", "Tailwind CSS"],
-  backend: ["Node.js", "Express.js"],
-  database: ["MongoDB"],
-  tools: ["Git", "GitHub", "VS Code"],
-  currentlyLearning: "Advanced MERN & System Design",
+  location: "India",
+  skills: {
+    frontend: ["React.js", "JavaScript", "Tailwind CSS", "Redux Toolkit"],
+    backend: ["Node.js", "Express.js", "REST APIs"],
+    database: ["MongoDB", "Mongoose"],
+    tools: ["Git", "GitHub", "VS Code", "Postman"]
+  },
+  currentlyLearning: ["Advanced MERN", "System Design", "Backend Architecture"],
+  goal: "To become a better full-stack software engineer",
   openToWork: true
 };
-```
+````
+
+<br clear="right"/>
 
 ---
 
-## 🖼️ Profile Style
+## 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/your-profile-image-link-here" width="250" style="border-radius:50%;" />
-</p>
+<div align="center">
 
-> Yahan aap apni **profile photo** ya reference image ki tarah koi circular image use kar sakte ho.  
-> Agar chaho to main is README me aapke liye **profile card/banner section** bhi aur zyada similar bana dunga.
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,git,github,vscode,postman,npm,vite" />
 
----
-
-## 🛠️ Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,vscode,tailwind,redux,postman" />
-</p>
+</div>
 
 ---
 
-## 📈 GitHub Analytics
+## 🧩 Featured Projects
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dilshad1234-alam&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilshad1234-alam&layout=compact&theme=radical&hide_border=true" />
-</p>
+<table>
+<tr>
+<td width="50%">
+
+### 🛒 Snitch E-Commerce Platform
+
+Full-stack MERN e-commerce app with authentication, role-based access, product variants, cart, wishlist, seller dashboard, and Razorpay payment integration.
+
+**Tech:** React, Redux Toolkit, Node.js, Express.js, MongoDB, JWT, Razorpay
+
+</td>
+<td width="50%">
+
+### 🤖 AI Better Arena
+
+AI model comparison platform where users can compare multiple AI responses in one interface.
+
+**Tech:** React, TypeScript, Node.js, Express.js, AI APIs
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏨 Hotel Booking Platform
+
+Hotel listing and booking platform with authentication, image upload, and booking management.
+
+**Tech:** React, Node.js, Express.js, MongoDB, JWT
+
+</td>
+<td width="50%">
+
+### 💬 Real-Time Chat App
+
+Real-time chat application with authentication and live messaging using Socket.io.
+
+**Tech:** MERN Stack, Socket.io, JWT, MongoDB
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dilshad1234-alam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilshad1234-alam&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
 ## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dilshad1234-alam&theme=radical&hide_border=true" />
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Dilshad1234-alam&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dilshad1234-alam&theme=radical&no-frame=true&row=1&column=7" />
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dilshad1234-alam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Current Focus
 
-### 🛒 E-Commerce Platform
-Full MERN application with authentication, payment integration, and admin dashboard.
-
-### 💬 Real-Time Chat App
-Socket.io powered real-time messaging application with live communication.
-
-### 📋 Task Manager
-Productivity-focused task management system with authentication and CRUD features.
-
-### 🎬 Movie Explorer
-React application using external APIs for movie discovery and watchlist management.
+* Building production-ready MERN applications
+* Improving backend API design and database architecture
+* Learning system design and scalable application patterns
+* Creating clean UI, responsive layouts, and portfolio-level projects
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Dilshad1234-alam">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
 
----
+<a href="https://linkedin.com/in/your-linkedin-profile">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## ✨ Current Focus
+<a href="https://github.com/Dilshad1234-alam">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-- Building scalable full-stack applications.
-- Improving backend architecture and API design.
-- Learning advanced MERN patterns and system design.
-- Creating polished GitHub projects and portfolio apps.
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💡 "First, solve the problem. Then, write the code."
+### 💡 “First, solve the problem. Then, write the code.”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=130&section=footer" />
 
 </div>
+```
