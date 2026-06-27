@@ -159,7 +159,7 @@ Real-time messaging with Socket.io.
 
 <div align="center">
 
-```yaml
+yaml
 # .github/workflows/snake.yml
 
 name: Generate Snake
@@ -183,7 +183,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-```
+
 
 <img src="https://raw.githubusercontent.com/Dilshad1234-alam/Dilshad1234-alam/output/github-contribution-grid-snake.svg"/>
 
