@@ -50,40 +50,11 @@
 
 ---
 
-## ⚡ Impact Stats
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<h3>120+</h3>
-<p>Projects</p>
-</td>
-<td align="center" width="25%">
-<h3>500+</h3>
-<p>Commits</p>
-</td>
-<td align="center" width="25%">
-<h3>150+</h3>
-<p>Stars</p>
-</td>
-<td align="center" width="25%">
-<h3>80+</h3>
-<p>Happy Users</p>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,git,github,vscode,postman,vite,npm" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,nodejs,express,mongodb,python,git,github,vscode,postman,vite,npm" />
 
 </div>
 
@@ -93,32 +64,48 @@
 
 <table>
 <tr>
-<td width="25%">
+<td width="33%">
 
-### 🛒 Snitch E-Commerce
-Full-stack e-commerce with role-based access, payments, cart, wishlist & seller dashboard.  
-`MERN` `Redux` `Razorpay`
-
-</td>
-<td width="25%">
-
-### 🤖 AI Better Arena
-Compare multiple AI models responses in one powerful platform.  
-`React` `TypeScript` `AI APIs`
+### 💳 Banking-Automation
+Python-based robust banking automation system ensuring secure operations and logic.  
+`Python` `Automation` `Backend`
 
 </td>
-<td width="25%">
+<td width="33%">
 
-### 🏨 Hotel Booking
-Hotel booking platform with authentication, upload & booking management.  
-`MERN` `JWT` `Cloudinary`
+### 🎮 Tic-Tac-Toe Game
+Interactive, responsive web-based Tic-Tac-Toe game with sleek UI and smooth logic.  
+`JavaScript` `HTML5` `CSS3`
 
 </td>
-<td width="25%">
+<td width="33%">
 
-### 💬 Real-Time Chat App
-Real-time chat application with authentication and live messaging.  
-`Socket.io` `MERN` `JWT`
+### 🎬 Two-Good / Animations
+Modern animated landing page design showcasing frontend mastery and smooth UI interactions.  
+`HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="33%">
+
+### 📂 Cards & UI Components
+Collection of reusable UI cards and modern frontend components with sleek styling.  
+`JavaScript` `Tailwind / CSS`
+
+</td>
+<td width="33%">
+
+### ⚙️ Sheryians Backend
+Backend architecture and server-side logic implementations built during intensive learning.  
+`Node.js` `Express.js` `MongoDB`
+
+</td>
+<td width="33%">
+
+### 🌐 Creators Kit (Current)
+Full-stack production-ready platform with secure authentication, OTP verification, and live domain deployment.  
+`Next.js` `MERN` `Hostinger SMTP`
 
 </td>
 </tr>
@@ -168,8 +155,8 @@ Real-time chat application with authentication and live messaging.
 <tr>
 <td width="60%">
 
-- 🚀 Building production-ready MERN applications
-- ⚡ Improving backend architecture & API design
+- 🚀 Deploying production-ready MERN & Next.js applications (`creatorskithub.com`)
+- ⚡ Improving backend architecture & Hostinger SMTP integrations
 - 🧠 Learning system design & scalable patterns
 - 🎨 Creating beautiful UI/UX experiences
 - 🔥 Growing as a full-stack software engineer
@@ -189,7 +176,7 @@ Real-time chat application with authentication and live messaging.
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/dilshad-alam">
 <img src="https://img.shields.io/badge/LinkedIn-00d4ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
