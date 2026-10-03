@@ -1,11 +1,10 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:020024,50:6a00ff,100:00d4ff&text=Hi,%20I'm%20Dilshad%20Alam&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20MERN%20Developer%20%7C%20Building%20Scalable%20Modern%20Web%20Apps&descSize=18&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:020024,50:6a00ff,100:00d4ff&text=Hi,%20I'm%20Dilshad%20Alam&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20MERN%20Developer%20%7C%20Building%20Scalable%20Modern%20Web%20Apps&descSize=16&descAlignY=70" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=🚀+MERN+Stack+Developer;⚡+React+%7C+Node.js+%7C+Express.js+%7C+MongoDB;🎨+Modern+UI%2FUX+%2B+Powerful+Backend;🔥+Open+To+Work+%26+Collaboration"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=🚀+MERN+Stack+Developer;⚡+React+%7C+Node.js+%7C+Express.js+%7C+MongoDB;🎨+Modern+UI%2FUX+%2B+Powerful+Backend;🔥+Open+To+Work+%26+Collaboration"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Dilshad1234-alam&label=Profile%20Views&color=00d4ff&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Open%20To%20Work-00ff88?style=for-the-badge&logo=rocket&logoColor=black"/>
@@ -21,7 +20,7 @@
 <tr>
 <td width="35%" align="center">
 
-<img width="230" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+<img width="200" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 <br/><br/>
 
@@ -86,15 +85,6 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,git,github,vscode,postman,vite,npm" />
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb"/>
-
 </div>
 
 ---
@@ -106,36 +96,28 @@
 <td width="25%">
 
 ### 🛒 Snitch E-Commerce
-
-Full-stack e-commerce with role-based access, payments, cart, wishlist & seller dashboard.
-
+Full-stack e-commerce with role-based access, payments, cart, wishlist & seller dashboard.  
 `MERN` `Redux` `Razorpay`
 
 </td>
 <td width="25%">
 
 ### 🤖 AI Better Arena
-
-Compare multiple AI models responses in one powerful platform.
-
+Compare multiple AI models responses in one powerful platform.  
 `React` `TypeScript` `AI APIs`
 
 </td>
 <td width="25%">
 
 ### 🏨 Hotel Booking
-
-Hotel booking platform with authentication, upload & booking management.
-
+Hotel booking platform with authentication, upload & booking management.  
 `MERN` `JWT` `Cloudinary`
 
 </td>
 <td width="25%">
 
 ### 💬 Real-Time Chat App
-
-Real-time chat application with authentication and live messaging.
-
+Real-time chat application with authentication and live messaging.  
 `Socket.io` `MERN` `JWT`
 
 </td>
@@ -195,7 +177,7 @@ Real-time chat application with authentication and live messaging.
 </td>
 <td width="40%" align="center">
 
-<img width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 </td>
 </tr>
@@ -215,12 +197,8 @@ Real-time chat application with authentication and live messaging.
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:dmd68699@gmail.com">
 <img src="https://img.shields.io/badge/Email-ff00ff?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-6a00ff?style=for-the-badge"/>
 </a>
 
 </div>
@@ -231,7 +209,6 @@ Real-time chat application with authentication and live messaging.
 
 ### 💡 “First, solve the problem. Then, write the code.”
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:6a00ff,100:00d4ff&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:6a00ff,100:00d4ff&height=120&section=footer" width="100%"/>
 
 </div>
-
