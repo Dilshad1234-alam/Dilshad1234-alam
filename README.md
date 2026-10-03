@@ -38,33 +38,24 @@
 
 ---
 
-###  GitHub Stats:
+###  GitHub Stats & Metrics:
 
-<div align="left">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dilshad1234-alam&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilshad1234-alam&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dilshad1234-alam&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilshad1234-alam&layout=compact&theme=radical&hide_border=true"/>
-
-</div>
-
-<br/>
-
-<div align="left">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dilshad1234-alam&theme=react-dark&hide_border=true"/>
-
-</div>
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dilshad1234-alam&theme=react-dark&hide_border=true" width="98%" />
+</p>
 
 ---
 
 ###  Contribution Streak:
 
-<div align="left">
-
-<img src="https://streak-stats.demolab.com?user=Dilshad1234-alam&theme=radical&hide_border=true"/>
-
-</div>
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Dilshad1234-alam&theme=radical&hide_border=true" />
+</p>
 
 ---
 
@@ -75,8 +66,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Dilshad1234-alam&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 
 </div>
-
----
 
 ###  Featured Projects:
 
