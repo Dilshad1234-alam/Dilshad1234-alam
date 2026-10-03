@@ -46,7 +46,7 @@
 </p>
 
 <p align="left">
-  <img src="https://www.101labs.net/wp-content/uploads/2025/01/1_CWFkh5z8oa6dZfn5_gkKKQ.jpg" width="98%" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBmO2VDrtoza-hV-I2kPBbmTY1cgGJpr1TutO7IvA3hJvQee6aArCCTKs&s=10" width="98%" />
 </p>
 
 ---
