@@ -46,7 +46,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dilshad1234-alam&theme=react-dark&hide_border=true" width="98%" />
+  <img src="https://user-images.githubusercontent.com/66295121/232742608-b1447c98-3e62-4556-a8da-164a114017cb.png" width="98%" />
 </p>
 
 ---
