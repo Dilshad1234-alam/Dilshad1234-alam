@@ -1,4 +1,4 @@
-### 💫 About Me:
+###  About Me:
 
 - 🔭 I'm currently working on building scalable MERN & Next.js applications (`creatorskithub.com`)
 - 🌱 I'm currently learning **Advanced System Design & Backend Architecture**
@@ -8,7 +8,7 @@
 
 ---
 
-### 🌐 Socials:
+###  Socials:
 
 <div align="left">
 
@@ -28,17 +28,17 @@
 
 ---
 
-### 💻 Tech Stack:
+###  Tech Stack:
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,nodejs,express,mongodb,git,github,vscode,postman,vite,npm" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,nodejs,express,mongodb,python,git,github,vscode,postman,vite,npm" />
 
 </div>
 
 ---
 
-### 📊 GitHub Stats:
+###  GitHub Stats:
 
 <div align="left">
 
@@ -58,7 +58,7 @@
 
 ---
 
-### 🔥 Contribution Streak:
+###  Contribution Streak:
 
 <div align="left">
 
@@ -68,7 +68,7 @@
 
 ---
 
-### 🏆 GitHub Trophies:
+###  GitHub Trophies:
 
 <div align="left">
 
@@ -78,12 +78,13 @@
 
 ---
 
-### 🚀 Featured Projects:
+###  Featured Projects:
 
 - **[Creators Kit](https://github.com/Dilshad1234-alam)**: Full-stack production platform with secure authentication, OTP verification, and Hostinger SMTP integration. (`Next.js`, `MERN`, `Hostinger SMTP`)
-- **[Banking-Automation](https://github.com/Dilshad1234-alam/Banking-Automation)**: Python-based robust banking automation system ensuring secure operations. (`Python`, `Automation`)
-- **[Tic-Tac-Toe Game](https://github.com/Dilshad1234-alam/Tic-Tac-Toe-game)**: Interactive, responsive web-based game with clean UI logic. (`JavaScript`, `HTML5`, `CSS3`)
-- **[Two-Good Animations](https://github.com/Dilshad1234-alam/two-good)**: Modern animated landing page showcasing frontend mastery and smooth UI interactions. (`HTML`, `CSS`, `JavaScript`)
+- **[Wedding Studio](https://github.com/Dilshad1234-alam)**: Photography studio website featuring dynamic showcase pages, custom MongoDB gallery schemas, and inline YouTube video players. (`Next.js`, `MongoDB`, `Tailwind CSS`)
+- **[Snitch E-Commerce](https://github.com/Dilshad1234-alam)**: Full-stack e-commerce platform featuring role-based access, secure payments, cart, wishlist, and seller management. (`MERN`, `Redux`, `Tailwind CSS`)
+- **[Hotel Management](https://github.com/Dilshad1234-alam)**: Comprehensive hotel booking platform with secure authentication, property listing uploads, and reservation management. (`MERN`, `JWT`, `Cloudinary`)
+
 
 ---
 
