@@ -63,7 +63,7 @@
 
 <div align="left">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dilshad1234-alam&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+<img src="https://cdn-learn.adafruit.com/assets/assets/000/112/625/medium800/programming_GFP_GitHub_profile_trophy_header.png?1656192538"/>
 
 </div>
 
